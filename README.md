@@ -6,6 +6,13 @@
   </div>
   <div>
     <h2>🔧 Skills</h2>
+    <ul>
+      <li><strong>Languages:</strong> PHP, JavaScript, JAVA</li>
+      <li><strong>Web Frameworks:</strong> Laravel,Nextjs</li>
+      <li><strong>Frontend:</strong> HTML, CSS, Bootstrap</li>
+      <li><strong>Databases:</strong> MYSQL</li>
+      <li><strong>Tools:</strong> Git</li>
+      <li><strong>Other:</strong> RESTful APIs, JSON,Ajax</li>
+    </ul>
   </div>
-  
 </div>

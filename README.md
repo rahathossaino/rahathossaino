@@ -18,7 +18,7 @@
   <div class="learning">
     <h2>🌱 Currently Learning</h2>
     <ul>
-      <li>Currently learning JavaScript framework React</li>
+      <li>JavaScript framework React</li>
       <li>Improving Laravel skills</li>
       <li>Docker and AWS</li>
     </ul>

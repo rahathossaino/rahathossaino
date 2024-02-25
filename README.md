@@ -20,7 +20,7 @@
     <ul>
       <li>JavaScript framework React</li>
       <li>Improving Laravel skills</li>
-      <li>Docker and AWS</li>
+    
     </ul>
   </div>
   <div>

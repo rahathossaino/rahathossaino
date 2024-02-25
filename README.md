@@ -20,8 +20,6 @@
     <ul>
       <li>JavaScript framework React</li>
       <li>Improving Laravel skills</li>
-    
-    </ul>
   </div>
   <div>
     <h2>📫 Let's Connect</h2>

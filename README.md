@@ -8,8 +8,8 @@
     <h2>🔧 Skills</h2>
     <ul>
       <li><strong>Languages:</strong> PHP, JavaScript, JAVA(OOP)</li>
-      <li><strong>Web Frameworks:</strong> Laravel</li>
-      <li><strong>Frontend:</strong> HTML, CSS, Bootstrap</li>
+      <li><strong>Backend Framework:</strong> Laravel</li>
+      <li><strong>Frontend:</strong> HTML, CSS, React(Basic)</li></li>
       <li><strong>Databases:</strong> MYSQL</li>
       <li><strong>Tools:</strong> Git</li>
       <li><strong>Other:</strong> RESTful APIs, JSON,Ajax</li>
@@ -18,7 +18,7 @@
   <div class="learning">
     <h2>🌱 Currently Learning</h2>
     <ul>
-      <li>JavaScript framework React</li>
+      <li>Docker</li>
       <li>Improving Laravel skills</li>
   </div>
   <div>

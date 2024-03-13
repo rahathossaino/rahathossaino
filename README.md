@@ -10,7 +10,7 @@
       <li><strong>Languages:</strong> PHP, JavaScript, JAVA(OOP)</li>
       <li><strong>Backend Framework:</strong> Laravel</li>
       <li><strong>Frontend:</strong> HTML, CSS, React(Basic)</li></li>
-      <li><strong>Databases:</strong> MYSQL</li>
+      <li><strong>Databases:</strong> MySQL</li>
       <li><strong>Tools:</strong> Git</li>
       <li><strong>Other:</strong> RESTful APIs, JSON,Ajax</li>
     </ul>

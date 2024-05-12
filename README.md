@@ -11,7 +11,7 @@
       <li><strong>Backend Framework:</strong> Laravel</li>
       <li><strong>Frontend:</strong> HTML, CSS, React(Basic)</li></li>
       <li><strong>Databases:</strong> MySQL</li>
-      <li><strong>Tools:</strong> Git</li>
+      <li><strong>Tools:</strong> Git, Github</li>
       <li><strong>Other:</strong> RESTful APIs, JSON,Ajax</li>
     </ul>
   </div>

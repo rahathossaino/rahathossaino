@@ -7,7 +7,7 @@
   <div class="skill">
     <h2>🔧 Skills</h2>
     <ul>
-      <li><strong>Languages:</strong> PHP, JavaScript, JAVA(OOP)</li>
+      <li><strong>Languages:</strong> PHP, JavaScript, Python</li>
       <li><strong>Backend Framework:</strong> Laravel</li>
       <li><strong>Frontend:</strong> HTML, CSS, React</li></li>
       <li><strong>Databases:</strong> MySQL</li>

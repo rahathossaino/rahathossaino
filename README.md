@@ -12,7 +12,7 @@
       <li><strong>Frontend:</strong> HTML, CSS, React</li></li>
       <li><strong>Databases:</strong> MySQL</li>
       <li><strong>Tools:</strong> Git, Github</li>
-      <li><strong>Other:</strong> RESTful APIs, MVC, JSON, Ajax,JQuery</li>
+      <li><strong>Other:</strong> RESTful APIs, MVC, JSON, Ajax</li>
     </ul>
   </div>
   <div class="learning">
